@@ -1,14 +1,18 @@
 <!DOCTYPE html>
 <html>
-<body>
-yvgtuh87yu
+<body style="background-color:powderblue;">
 
 
-<h2>Portfolio</h2>
-<img src="x-special/nautilus-clipboard
-copy
-file:///home/student/index.jpeg
-" alt="Flowers in Chania" width="460" height="345">
+<h2 style="color:blue;">Portfolio</h2>
+<p style="color:red;">Informatin</p>
+
+<a href="https://www.w3schools.com">Visit W3Schools</a>
+
+<img src="w3schools.jpg" alt="W3Schools.com" width="104" height="142">
+
+<button onclick="document.location='default.asp'">HTML Tutorial</button>
+
+
 
 </body>
 </html>
